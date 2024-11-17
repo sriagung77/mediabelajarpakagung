@@ -1,0 +1,377 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Media Pembelajaran
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+            font-family: 'Roboto', sans-serif;
+        }
+  </style>
+ </head>
+ <body class="bg-gray-100">
+  <header class="bg-blue-600 text-white p-4">
+   <div class="container mx-auto flex justify-between items-center">
+    <h1 class="text-2xl font-bold">
+     Media Pembelajaran
+    </h1>
+    <nav>
+     <ul class="flex space-x-4">
+      <li>
+       <a class="hover:underline" href="#ai">
+        AI
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#ar">
+        AR
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#vr">
+        VR
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#canva">
+        Canva
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#video-tutorial">
+        Video Tutorial
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#ebook">
+        Ebook
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#quiz">
+        Quiz
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#tugas">
+        Tugas
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#hasil-karya">
+        Hasil Karya
+       </a>
+      </li>
+      <li>
+       <a class="hover:underline" href="#media-sosial">
+        Media Sosial
+       </a>
+      </li>
+     </ul>
+    </nav>
+   </div>
+  </header>
+  <main class="container mx-auto p-4">
+   <section class="my-8" id="ai">
+    <h2 class="text-xl font-bold mb-4">
+     Artificial Intelligence
+    </h2>
+    <p class="mb-4">
+     Pelajari tentang AI dan bagaimana mengintegrasikannya dalam pembelajaran.
+    </p>
+    <img alt="Illustration of Artificial Intelligence concept with neural networks and data flow" class="w-full mb-4" height="400" src="https://storage.googleapis.com/a1aa/image/0UIJD3jwNU74BxO5Z6eDnNys5XKcKRfcqTkhW6m0KRXc24xTA.jpg" width="600"/>
+   </section>
+   <section class="my-8" id="ar">
+    <h2 class="text-xl font-bold mb-4">
+     Augmented Reality
+    </h2>
+    <p class="mb-4">
+     Gunakan AR untuk pengalaman belajar yang lebih interaktif dan menarik.
+    </p>
+    <img alt="Illustration of Augmented Reality with interactive 3D models overlaying real-world objects" class="w-full mb-4" height="400" src="https://storage.googleapis.com/a1aa/image/73HJkmx47fRkIC7LKv0sLP2LaQ9YkOybGfGcatOqra0b24xTA.jpg" width="600"/>
+   </section>
+   <section class="my-8" id="vr">
+    <h2 class="text-xl font-bold mb-4">
+     Virtual Reality
+    </h2>
+    <p class="mb-4">
+     Manfaatkan VR untuk menciptakan lingkungan belajar yang imersif.
+    </p>
+    <img alt="Illustration of Virtual Reality with a student wearing VR headset in a virtual classroom" class="w-full mb-4" height="400" src="https://storage.googleapis.com/a1aa/image/lLjXu3Vkt5ZmKReCkNVPIhrBXkQLlVhziVQX6ynzeBepsxjnA.jpg" width="600"/>
+   </section>
+   <section class="my-8" id="canva">
+    <h2 class="text-xl font-bold mb-4">
+     Canva
+    </h2>
+    <p class="mb-4">
+     Gunakan Canva untuk membuat desain grafis yang menarik untuk pembelajaran.
+    </p>
+    <img alt="Screenshot of Canva interface with various design templates" class="w-full mb-4" height="400" src="https://storage.googleapis.com/a1aa/image/WLaAdYHsUtbVMxEfTmrxtA5VmayxwKkUEddx91Hits0Jb84JA.jpg" width="600"/>
+   </section>
+   <section class="my-8" id="video-tutorial">
+    <h2 class="text-xl font-bold mb-4">
+     Video Tutorial
+    </h2>
+    <p class="mb-4">
+     Tonton video tutorial dari YouTube untuk memperdalam pemahaman.
+    </p>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+     <div class="bg-white p-4 rounded shadow">
+      <iframe allowfullscreen="" frameborder="0" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ" width="100%">
+      </iframe>
+      <h3 class="text-lg font-bold mt-2">
+       Tutorial 1
+      </h3>
+      <p>
+       Deskripsi singkat tentang tutorial ini.
+      </p>
+     </div>
+     <div class="bg-white p-4 rounded shadow">
+      <iframe allowfullscreen="" frameborder="0" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ" width="100%">
+      </iframe>
+      <h3 class="text-lg font-bold mt-2">
+       Tutorial 2
+      </h3>
+      <p>
+       Deskripsi singkat tentang tutorial ini.
+      </p>
+     </div>
+     <div class="bg-white p-4 rounded shadow">
+      <iframe allowfullscreen="" frameborder="0" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ" width="100%">
+      </iframe>
+      <h3 class="text-lg font-bold mt-2">
+       Tutorial 3
+      </h3>
+      <p>
+       Deskripsi singkat tentang tutorial ini.
+      </p>
+     </div>
+    </div>
+   </section>
+   <section class="my-8" id="ebook">
+    <h2 class="text-xl font-bold mb-4">
+     Ebook PDF
+    </h2>
+    <p class="mb-4">
+     Unduh ebook PDF untuk referensi lebih lanjut.
+    </p>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+     <div class="bg-white p-4 rounded shadow">
+      <img alt="Cover of Ebook 1 with educational theme" class="w-full mb-4" height="300" src="https://storage.googleapis.com/a1aa/image/rjJffep8aLbHfRlaTIEOgu0A8K5OevIeJR1q6fMJCYhdIb84JA.jpg" width="200"/>
+      <h3 class="text-lg font-bold">
+       Ebook 1
+      </h3>
+      <a class="text-blue-600 hover:underline" href="#">
+       Download
+      </a>
+     </div>
+     <div class="bg-white p-4 rounded shadow">
+      <img alt="Cover of Ebook 2 with educational theme" class="w-full mb-4" height="300" src="https://storage.googleapis.com/a1aa/image/x3VsHB9TeRwUACmHu1gwBUVJp9kKYboEXraaLBJpxfnX24xTA.jpg" width="200"/>
+      <h3 class="text-lg font-bold">
+       Ebook 2
+      </h3>
+      <a class="text-blue-600 hover:underline" href="#">
+       Download
+      </a>
+     </div>
+     <div class="bg-white p-4 rounded shadow">
+      <img alt="Cover of Ebook 3 with educational theme" class="w-full mb-4" height="300" src="https://storage.googleapis.com/a1aa/image/KZpAawbstTJRCdBjUWeHtn7ogUPZ3eFnroH50dhxsdAR24xTA.jpg" width="200"/>
+      <h3 class="text-lg font-bold">
+       Ebook 3
+      </h3>
+      <a class="text-blue-600 hover:underline" href="#">
+       Download
+      </a>
+     </div>
+    </div>
+   </section>
+   <section class="my-8" id="quiz">
+    <h2 class="text-xl font-bold mb-4">
+     Quiz Interaktif
+    </h2>
+    <p class="mb-4">
+     Ikuti quiz interaktif untuk menguji pemahaman Anda.
+    </p>
+    <div class="bg-white p-4 rounded shadow">
+     <h3 class="text-lg font-bold mb-2">
+      Quiz 1
+     </h3>
+     <p class="mb-4">
+      Pertanyaan 1: Apa itu AI?
+     </p>
+     <ul class="space-y-2">
+      <li>
+       <input id="q1a1" name="quiz1" type="radio"/>
+       <label class="ml-2" for="q1a1">
+        Pilihan A
+       </label>
+      </li>
+      <li>
+       <input id="q1a2" name="quiz1" type="radio"/>
+       <label class="ml-2" for="q1a2">
+        Pilihan B
+       </label>
+      </li>
+      <li>
+       <input id="q1a3" name="quiz1" type="radio"/>
+       <label class="ml-2" for="q1a3">
+        Pilihan C
+       </label>
+      </li>
+      <li>
+       <input id="q1a4" name="quiz1" type="radio"/>
+       <label class="ml-2" for="q1a4">
+        Pilihan D
+       </label>
+      </li>
+     </ul>
+    </div>
+   </section>
+   <section class="my-8" id="tugas">
+    <h2 class="text-xl font-bold mb-4">
+     Tugas untuk Siswa
+    </h2>
+    <p class="mb-4">
+     Berikan tugas kepada siswa untuk dikerjakan.
+    </p>
+    <div class="bg-white p-4 rounded shadow">
+     <h3 class="text-lg font-bold mb-2">
+      Tugas 1
+     </h3>
+     <p class="mb-4">
+      Deskripsi tugas 1.
+     </p>
+     <a class="text-blue-600 hover:underline" href="#">
+      Upload Tugas
+     </a>
+    </div>
+   </section>
+   <section class="my-8" id="hasil-karya">
+    <h2 class="text-xl font-bold mb-4">
+     Hasil Karya Siswa
+    </h2>
+    <p class="mb-4">
+     Lihat hasil karya siswa dan penilaiannya.
+    </p>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+     <div class="bg-white p-4 rounded shadow">
+      <img alt="Student project 1 with detailed description" class="w-full mb-4" height="400" src="https://storage.googleapis.com/a1aa/image/gK5qsrPHHP7yFNs8I9VWSR3DBRskKyn5VsNZP2KfpwsKb84JA.jpg" width="600"/>
+      <h3 class="text-lg font-bold">
+       Karya 1
+      </h3>
+      <p>
+       Penilaian: 90/100
+      </p>
+     </div>
+     <div class="bg-white p-4 rounded shadow">
+      <img alt="Student project 2 with detailed description" class="w-full mb-4" height="400" src="https://storage.googleapis.com/a1aa/image/z7tjolYPSS7eAi8ml23xrmRxpdC7BgCe1lHh7Uh3aaha24xTA.jpg" width="600"/>
+      <h3 class="text-lg font-bold">
+       Karya 2
+      </h3>
+      <p>
+       Penilaian: 85/100
+      </p>
+     </div>
+     <div class="bg-white p-4 rounded shadow">
+      <img alt="Student project 3 with detailed description" class="w-full mb-4" height="400" src="https://storage.googleapis.com/a1aa/image/UH8ZAHnVKG5WNJ1JewYb0HjSRFrj7ldjrEfSlMGxcJ1Y24xTA.jpg" width="600"/>
+      <h3 class="text-lg font-bold">
+       Karya 3
+      </h3>
+      <p>
+       Penilaian: 88/100
+      </p>
+     </div>
+    </div>
+   </section>
+   <section class="my-8" id="media-sosial">
+    <h2 class="text-xl font-bold mb-4">
+     Media Sosial Guru dan Siswa
+    </h2>
+    <p class="mb-4">
+     Terhubung dengan guru dan siswa melalui media sosial.
+    </p>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+     <div class="bg-white p-4 rounded shadow">
+      <h3 class="text-lg font-bold mb-2">
+       Guru 1
+      </h3>
+      <p>
+       Deskripsi singkat tentang Guru 1.
+      </p>
+      <div class="flex space-x-2">
+       <a class="text-blue-600" href="#">
+        <i class="fab fa-facebook">
+        </i>
+       </a>
+       <a class="text-blue-400" href="#">
+        <i class="fab fa-twitter">
+        </i>
+       </a>
+       <a class="text-pink-600" href="#">
+        <i class="fab fa-instagram">
+        </i>
+       </a>
+      </div>
+     </div>
+     <div class="bg-white p-4 rounded shadow">
+      <h3 class="text-lg font-bold mb-2">
+       Guru 2
+      </h3>
+      <p>
+       Deskripsi singkat tentang Guru 2.
+      </p>
+      <div class="flex space-x-2">
+       <a class="text-blue-600" href="#">
+        <i class="fab fa-facebook">
+        </i>
+       </a>
+       <a class="text-blue-400" href="#">
+        <i class="fab fa-twitter">
+        </i>
+       </a>
+       <a class="text-pink-600" href="#">
+        <i class="fab fa-instagram">
+        </i>
+       </a>
+      </div>
+     </div>
+     <div class="bg-white p-4 rounded shadow">
+      <h3 class="text-lg font-bold mb-2">
+       Siswa 1
+      </h3>
+      <p>
+       Deskripsi singkat tentang Siswa 1.
+      </p>
+      <div class="flex space-x-2">
+       <a class="text-blue-600" href="#">
+        <i class="fab fa-facebook">
+        </i>
+       </a>
+       <a class="text-blue-400" href="#">
+        <i class="fab fa-twitter">
+        </i>
+       </a>
+       <a class="text-pink-600" href="#">
+        <i class="fab fa-instagram">
+        </i>
+       </a>
+      </div>
+     </div>
+    </div>
+   </section>
+  </main>
+  <footer class="bg-blue-600 text-white p-4 mt-8">
+   <div class="container mx-auto text-center">
+    <p>
+     © 2023 Media Pembelajaran. All rights reserved.
+    </p>
+   </div>
+  </footer>
+ </body>
+</html>
